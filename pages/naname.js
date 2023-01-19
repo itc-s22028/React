@@ -1,5 +1,4 @@
 import styles from 'styles/naname.module.css'
-import Document, { body, div, h1, p } from 'next/document';
 
 export default function Menu() {
   return (
